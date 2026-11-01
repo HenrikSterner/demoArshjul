@@ -1,0 +1,10 @@
+{
+  "workbookUrl": "./Aarshjul.xlsx",
+  "schoolName": "Gymnasiet",
+  "pollingSeconds": 60,
+  "defaultSchoolYear": "current",
+  "defaultView": "wheel",
+  "categories": ["g1", "g2", "g3", "common"],
+  "activityTable": "tblAktiviteter",
+  "schoolYearTable": "tblSkoleaar"
+}

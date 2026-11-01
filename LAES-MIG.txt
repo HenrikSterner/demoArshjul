@@ -1,0 +1,15 @@
+ÅRSHJUL – EXCEL + HTML/JAVASCRIPT
+
+1. Læg hele denne mappes indhold på en almindelig HTTPS-webadresse.
+2. Åbn index.html via webadressen.
+3. Rediger Aarshjul.xlsx i webmappen og gem. Siden kontrollerer automatisk filen.
+
+Hvis du redigerer en lokal kopi, skal den gemte fil erstatte Aarshjul.xlsx i webmappen.
+Sæt din egen kode til REDIGERING i Excel, hvis ønsket. Brug ikke kryptering/kode til ÅBNING: siden skal kunne læse arket.
+Der er ingen adgangskode i JavaScript og ingen Graph- eller SharePoint-appinstallation.
+Webmappens ejer styrer, hvem der må læse og overskrive filerne. Læserne kan læse hele Excelarket.
+
+Bevar Aarshjul.xlsx og aarshjul.config.json, når du senere opdaterer HTML/JavaScript-filerne.
+Skolens navn og kontrolinterval ændres i aarshjul.config.json.
+
+Teams: Et link kan deles i Teams. En indlejret Teams-fane kan bruge en almindelig Teams-webapp-pakke; organisationens regler for egne Teams-apps gælder stadig. Ingen programkode kan omgå en blokering i Teams.
